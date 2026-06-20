@@ -1,6 +1,5 @@
-{
-  "scripts": {
-    "build": "next build",
-    "start": "next start"
-  }
+json{
+  "name": "anugraha-portfolio",
+  "version": "1.0.0",
+  "private": true
 }
